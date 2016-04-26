@@ -1,6 +1,6 @@
 # Link Alias Script
 
-> xxx: The goal of this script of the ease the process of creating permanent aliasis in Linux based computers
+> xxx: The goal of this script is to ease the process of creating permanent aliases on Linux based computers
 
 > xxx: Before ['linkalias.sh'] if you wanted to create a permanent alias you had to open the ['.bashrc'] file in the root of your system and manually type the alias there
 
